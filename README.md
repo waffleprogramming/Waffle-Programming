@@ -1,3 +1,6 @@
 # [Waffle-programming](https://scratch.mit.edu/studios/4438380/comments/)
-By me, @stymphalianbirb, and @pokemonscratch101 , @blueparrot18 on scratch and many other people who help make this project.
+
+Scratch like, 3D Drag and drop Coding Interface
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/4w/Waffle-Programming/help.svg?logo=github)](https://github.com/Waffle-Programming/Waffle-Programming/github.io)
+
 
